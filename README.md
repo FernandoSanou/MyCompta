@@ -39,7 +39,3 @@ Développée en **Kotlin**, avec une interface en **XML**, et utilisant une **ba
 - **Base de données :** SQLite  
 - **Architecture :** MVC simplifié  
 - **Compatibilité :** Android 5.0+  
-
----
-
-## 📂 Organisation du projet
